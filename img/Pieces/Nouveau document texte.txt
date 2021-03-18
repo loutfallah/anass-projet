@@ -1,0 +1,47 @@
+Zones	Pièces
+
+---Moteur :	
+Embrayage, culasse ;
+turbo, injecteur, démarreur ;
+filtre à air, bougie, filtre à carburant ;
+kit de distribution. 
+
+---Échappement :	
+Pot catalytique ;
+silencieux.
+
+---Train roulant 	
+Rotules, cardans ;
+amortisseurs, pneus ;
+roulements.
+
+---Éclairage :	
+Verre de phare ou de feu ;
+optique ;
+ampoule.
+
+---Climatisation:
+Compresseur ;
+filtre d'habitacle.
+
+---Chauffage :
+ventilation;	
+Radiateur ;
+pulseur d'air ;
+sonde ;
+thermostat.
+
+---Freinage :	
+Tambour, plaquettes de frein ;
+mâchoire, disque ;
+câble de frein.
+
+---Direction :	
+Rotule de direction ;
+bras de suspension ;
+barre stabilisatrice.
+
+---Carrosserie	:
+Pare-choc avant, pare-choc arrière ;
+rétroviseurs, bas de caisse, portières ;
+ailes, capot, hayon.
